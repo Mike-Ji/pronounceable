@@ -1,0 +1,1 @@
+a small app that tests a word for pronounceability.
